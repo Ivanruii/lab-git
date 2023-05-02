@@ -20,3 +20,6 @@
     - Verifica que la conexión se haya establecido correctamente.
 
     ![](./content/5.png)
+3. Hacer un commit y un push.
+
+    ![](./content/6.png)
